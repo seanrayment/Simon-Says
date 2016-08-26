@@ -99,15 +99,3 @@ while not GAMEOVER:
             GAMEOVER = True
         else:
             print("GOOD CLICK")
-
-
-
-
-
-
-
-    #for event in pygame.event.get():
-    #    if event.type == MOUSEBUTTONDOWN:
-
-    #pygame.display.update()
-    #reset()
